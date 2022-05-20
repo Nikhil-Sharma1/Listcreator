@@ -1,0 +1,232 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.App {
+  background: #8ea4ac;
+  width: 100%;
+  height: 100vh;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  position: absolute;
+  overflow: hidden;
+}
+
+/* .container-fluid img {
+  height: auto;
+  width: 100%;
+  position: relative;
+} */
+
+/* .container-fluid img {
+  height: 130px;
+  width: 130px;
+  position: absolute;
+} */
+.container-fluid {
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  width: 100%;
+}
+
+.container li {
+  flex-direction: row;
+  margin-top: 10px;
+  height: 60px;
+  align-items: center;
+  display: flex;
+}
+
+.container li {
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.log-in {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: auto;
+  /* min-height: 600px; */
+  background: #d5dddd;
+  text-align: center;
+  align-self: center;
+  margin: 128px auto;
+  border-radius: 10px;
+  padding-bottom: 32px;
+  margin-top: 2%;
+  position: relative;
+}
+
+.Uadd {
+  position: relative;
+  margin-right: auto;
+  width: fit-content;
+  height: 40px;
+  padding: 2px 2px 2px 2px;
+}
+.Uadds {
+  position: relative;
+  margin-right: auto;
+  width: fit-content;
+  height: fit-content;
+
+  padding: 2px 2px 2px 2px;
+  border-radius: 10% 10% 10% 10% !important;
+}
+.Ladd {
+  position: relative;
+  margin-left: auto;
+  width: fit-content;
+  height: 40px;
+  font-size: 1px;
+  float: right;
+  padding: 2px 2px 2px 2px;
+}
+/* 320px */
+.lsearch {
+  width: 94%;
+  color: black;
+}
+.lbutton {
+  color: rgb(11 182 147);
+  width: 80px;
+  height: 35px;
+  margin-top: auto;
+}
+/* .Login-pic {
+  margin-bottom: 32px;
+  position: absolute;
+} */
+.UListData {
+  color: red;
+  font-size: 3em;
+  position: relative;
+  /* margin-right: 3%; */
+  @media screen and(min-width: 1200px) {
+    font-size: 2px;
+  }
+}
+.usericon {
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 50%;
+  font-size: 25px;
+  color: #fff;
+  text-align: center;
+  background: #796868;
+  margin-bottom: 8px;
+}
+.usericons {
+  margin-left: 15px;
+  border-radius: 50%;
+  font-size: 25px;
+  color: #fff;
+  text-align: center;
+  background: #796868;
+  margin-bottom: 8px;
+  margin-top: 20px;
+  margin-right: auto;
+}
+.UListDatas {
+  color: red;
+  position: absolute;
+  right: 0px;
+}
+.UList {
+  color: red;
+  font-size: 3em;
+  position: relative;
+}
+
+.form-group {
+  padding: 14px 32px 14px 16px;
+  border-radius: 4px 0 0 4px;
+  border: 2px solid #08070a;
+  outline: none;
+  align-items: center;
+  /* width: 320px; */
+  background: transparent;
+  color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-button {
+  width: 380px;
+  padding: 14px 32px 14px 16px;
+  border: 2px solid #08070a;
+  border-radius: 4px 4px 4px 4px;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  align-items: center;
+  background: rgb(83, 167, 192);
+  text-transform: capitalize;
+}
+
+.edit {
+  width: fit-content;
+  padding: 10px 10px 10px 10px;
+  border: 2px solid #08070a;
+  border-radius: 4px 4px 4px 4px;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  align-items: center;
+  background: rgb(83, 167, 192);
+  text-transform: capitalize;
+}
+.wrapper {
+  position: relative;
+}
+.select {
+  z-index: 2;
+  margin-bottom: 100px;
+  width: 94%;
+  position: absolute !important;
+  top: 0;
+  left: 0;
+}
+
+.auser {
+  width: 100%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  top: 0px;
+  background: #8ea4ac !important;
+}
+
+.suser {
+  width: 100%;
+  height: 50px;
+  background-color: rgb(184, 201, 201);
+  border-radius: 4px;
+  padding: 10px 10px 10px 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.seuser {
+  background-color: burlywood;
+  width: fit-content;
+  height: fit-content;
+  align-items: center;
+  padding: 10px 10px 10px;
+  border-radius: 10px;
+  margin-left: 3px;
+}
+.seuser:hover {
+  background: rgb(106, 101, 101);
+}
+
+.luser {
+  cursor: pointer;
+}
