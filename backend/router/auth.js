@@ -13,7 +13,8 @@ router.get('/', async (req, res) => {
   res.send("App is working");
 })
 router.get('/getlists', async (req, res) => {
-
+  const users = await User.find({ createList: "Not Allow" });
+  console.log(users);
   try {
     const listExist = await List.find({});
     //console.log(listExist);

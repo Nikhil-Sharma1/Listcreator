@@ -1,0 +1,322 @@
+Password is same as the fname of user.
+
+
+
+
+Admin users-:
+[
+  {
+    fname: 'Abhi',
+    lname: 'Sharma',
+    email: 'a@gmail.com',
+    password: '$2a$12$62tRlr7S0XqfMNz4L0JvR.phDsO9fWKDo7V/KL33PQFdonuCtHzZe',
+    designation: 'Product Manager',
+    phone: 8219774362,
+    address: 'Purana Bazaar, Bilaspur Himachal Pradesh',
+    uniqueId: '88910f95-566f-4f6e-889c-08f8d70273be',
+    __v: 0,
+    createList: 'Allow',
+    addUser: 'Allow'
+  },
+  {
+    fname: 'Akanksha ',
+    lname: 'Maurya',
+    email: 'ak@gmail.com',
+    password: '$2a$12$ozgUJOMoZDUcEy4ZOMcPhe20g44sTIcvBo4/JEeak3hUJX3Xejf2e',
+    designation: 'Head Of Department',
+    phone: 9867543452,
+    address: '302, Gobindnagar, Ludhiana',
+    uniqueId: '90abf9ed-aa05-41bd-af99-19a4602c6f75',
+    __v: 0,
+    createList: 'Allow',
+    addUser: 'Allow'
+  },
+  {
+    fname: 'Gourav',
+    lname: 'Gupta',
+    email: 'g@gmail.com',
+    password: '$2a$12$eFh9iuD5T0l7aFDIiufyouK5oMVjMXjEISG3be4fwvH.SZTs0Tg12',
+    designation: 'Technical Head',
+    phone: 9867546542,
+    address: '302, Gudgaon, Ludhiana',
+    uniqueId: '90abf9ed-aa05-41bd-af99-19a4602c6f76',
+    __v: 0,
+    createList: 'Allow',
+    addUser: 'Allow'
+  },
+  {
+    fname: 'Nikhil',
+    lname: 'Sharma',
+    email: 'nikhilsharma5930684@gmail.com',
+    password: '$2a$12$idM5ZRZHhtkPKQ8cHCVWV.PmdS1NptatiDzVcTWRrMrBOOIazCvG2',
+    designation: 'HR',
+    phone: 918219774362,
+    address: 'Village Dehan    P.O. Jabloo  Teh. Jhandutta Distt bilaspur',
+    uniqueId: '31ce91eb-45b7-4231-921f-eedaeed2d8f7',
+    createList: 'Allow',
+    __v: 0
+  }
+]
+
+
+Other users are-:
+[
+  {
+    fname: 'Sashank',
+    lname: 'Sharma',
+    email: 's@gmail.com',
+    password: '$2a$12$pgMJMS2cf23aDsaJ4NxYRewWE9Bv2A/OWfxbjR5RVxnUctzbrQbTG',
+    designation: 'Employee',
+    phone: 9879864509,
+    address: 'Bharatgarh Punjab',
+    uniqueId: '441e34a7-84c3-40f1-8cfa-59a2429d4c09',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Saksham',
+    lname: 'Bhardwaj',
+    email: 'sa@gmail.com',
+    password: '$2a$12$rz2rksb9XB4NQvTLI6jqR.Nr4niw1pJbkFOCF9QRJQw/TeSupGY.O',
+    designation: 'Client Manager',
+    phone: 9879375479,
+    address: 'Shathatlai Bilaspur, Himachal Pradesh',
+    uniqueId: '441e34a7-84c3-40f1-8cfa-59a2429d4c109',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Amaya',
+    lname: 'Raje',
+    email: 'am@gmail.com',
+    password: '$2a$12$Uqm1Wrzp7uTZ7ZXKIrJOI.b/7wVIzmqSk7hRzgIlKpRuoDoh9loZG',
+    designation: 'Team Manager',
+    phone: 9824576386,
+    address: 'Bhager Bilaspur Himachal Pradesh',
+    uniqueId: 'c758e2b9-d56b-4117-bfe3-d89a7fbdf9de',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Mayank',
+    lname: 'Gupta',
+    email: 'm@gmail.com',
+    password: '$2a$12$C2PNvuMboZKBXKK.G.NmCOOuan8LGZQSmL7/QzEqDEALavlnmwBJO',
+    designation: 'Sales Manager',
+    phone: 9824576443,
+    address: 'Bhager Bilaspur Himachal Pradesh',
+    uniqueId: 'c758e2b9-d56b-4117-bfe3-d89a7fbdf9dea',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Amit',
+    lname: 'Soni',
+    email: 'ami@gmail.com',
+    password: '$2a$12$qNDNDwX1SRPrzIhUgpYEWOVJwVfNSpxWhGmstXu.Kiu.d3HZGQAdK',
+    designation: 'Sales Person',
+    phone: 9842457334,
+    address: 'Chandigarh Punjab',
+    uniqueId: 'c758e2b9-d56b-4117-bfe3-d89a7fbdf9deb',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Vivek',
+    lname: 'Sharma',
+    email: 'v@gmail.com',
+    password: '$2a$12$hDGJvWnjOTqca8ktamRUvuVzYVKbYCMmm8sFyJxfEaC0uqA.j0wOa',
+    designation: 'Intern',
+    phone: 9842457334,
+    address: 'Jalandhar Punjab',
+    uniqueId: 'c758e2b9-d56b-4117-bfe3-d89a7fbdf9dec',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Sahil',
+    lname: 'Sharma',
+    email: 'sah@gmail.com',
+    password: '$2a$12$ARJKIZZmmA7bbc4NXRnRtOjfGZgApQ9mtofxischXZdiOylwda1uS',
+    designation: 'Intern',
+    phone: 9842457432,
+    address: 'Shimla Himachal Pradesh',
+    uniqueId: 'c758e2b9-d56b-4117-bfe3-d89a7fbdf9ded',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Bharat',
+    lname: 'Bhardwaj',
+    email: 'b@gmail.com',
+    password: '$2a$12$dM3vVCWl45GaWDygsMxIZOMSsqGrqcRdJ8wdgtf86DqdZ8H7Oatva',
+    designation: 'Product Manager',
+    phone: 9842457348,
+    address: 'Hamirpur Himachal Pradesh',
+    uniqueId: 'c758e2b9-d56b-4117-bfe3-d89a7fbdf9dee',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Ritakshi',
+    lname: 'Sharma',
+    email: 'r@gmail.com',
+    password: '$2a$12$VdKXJILSW.IGVY1Q7Zuxnux0fxRGAJF3YTffhYGA3u.Z0agj3izli',
+    designation: 'Team Manager',
+    phone: 7584437957,
+    address: 'Jyoripatan Bilaspur Himachal Pradesh',
+    uniqueId: 'be9896df-5f82-40c7-97d5-34a5310a68eb',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Shalini',
+    lname: 'Sharma',
+    email: 'sh@gmail.com',
+    password: '$2a$12$p6LsWwnqTLaqIBax1/7AIuSCC3b./LdiazUCzAVz8jQnVAvFpkysm',
+    designation: 'Intern',
+    phone: 9835476449,
+    address: 'Tikri Bilaspur Himachal Pradesh',
+    uniqueId: 'be9896df-5f82-40c7-97d5-34a5310a68eba',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Anchal',
+    lname: 'Sharma',
+    email: 'an@gmail.com',
+    password: '$2a$12$imDGAYsHuP5Q/Q48PLXUu.NiBQd77NHxNwhU/lGKs0PkGr9OpBcVq',
+    designation: 'Intern',
+    phone: 9835476658,
+    address: 'Gherwin Bilaspur Himachal Pradesh',
+    uniqueId: 'be9896df-5f82-40c7-97d5-34a5310a68ebb',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Niyati',
+    lname: 'Sharma',
+    email: 'n@gmail.com',
+    password: '$2a$12$R/5oMHZ6In7Wt/EfrFnvG.CR27HaFBygSWKRUElLSTBlcVogrXSZe',
+    designation: 'Intern',
+    phone: 9835476968,
+    address: 'Tikri Bilaspur Himachal Pradesh',
+    uniqueId: 'be9896df-5f82-40c7-97d5-34a5310a68ebc',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Ishan',
+    lname: 'Chandel',
+    email: 'i@gmail.com',
+    password: '$2a$12$4Wvc.5ohaHYIxYQdTBMhQOAAnS.9xrJ1vh3n1CfWT.qWy95dqnqX2',
+    designation: 'Team Manager',
+    phone: 9874928497,
+    address: 'Jhandutta Bilaspur HP',
+    uniqueId: '2f193df7-5658-407b-8c9b-d2a412293a54',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Shubham',
+    lname: 'Sharma',
+    email: 'shu@gmail.com',
+    password: '$2a$12$RcZ4f268AZvdxendcuRFIeOwsn6BuHTADzjNZOC8AmLC/9WtlGhOa',
+    designation: 'Sales Person',
+    phone: 9892849068,
+    address: 'Jhandutta Bilaspur HP',
+    uniqueId: '2f193df7-5658-407b-8c9b-d2a412293a54aa',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Omprakash',
+    lname: 'Sharma',
+    email: 'o@gmail.com',
+    password: '$2a$12$SyYwXN1rQKeqTJ9mYrSm.OwjIrrMHOSlymRPhXAuqyK0TTxL1NZYq',
+    designation: 'Sales Person',
+    phone: 9874928493,
+    address: 'Ghumarwin Bilaspur HP',
+    uniqueId: '2f193df7-5658-407b-8c9b-d2a412293a54bb',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Lalit',
+    lname: 'Sharma',
+    email: 'l@gmail.com',
+    password: '$2a$12$s6NQefUFi89NPuN4sKyopeuEwqNyYBab.Q0pzZOZHjNlcc7RGqUPq',
+    designation: 'Team Manager',
+    phone: 9892849454,
+    address: 'Jabloo Bilaspur HP',
+    uniqueId: '2f193df7-5658-407b-8c9b-d2a412293a54cf',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Aman',
+    lname: 'Sharma',
+    email: 'ama@gmail.com',
+    password: '$2a$12$WIb4nZ5eTPvrWpUAWWyJhO5lXoC1TFLtM3SZe0/pahVp9u/0uXrCK',
+    designation: 'Intern',
+    phone: 9845728609,
+    address: 'Jhandutta HP',
+    uniqueId: '950ced20-a1ea-4a04-afa5-9ee503db31f6',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Aditi',
+    lname: 'Sharma',
+    email: 'ad@gmail.com',
+    password: '$2a$12$Zw0pKw9AVrBsououohi53u6gwAxE/kvj9g4Hfpx19iw0UZXJuj3ou',
+    designation: 'Sales Person',
+    phone: 9846387205,
+    address: 'Una Himachal Pradesh',
+    uniqueId: '422ed365-dd4e-4140-b963-e753b59eddee',
+    createList: 'Not Allow',
+    addList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Divya',
+    lname: 'Chakshu',
+    email: 'd@gmail.com',
+    password: '$2a$12$zkIf9GTEeNCdGJ8jJ3dgFeonb1UooUO2YK2njubJCfTAOe0ASKB9.',
+    designation: 'Manager',
+    phone: 9083444473,
+    address: 'Ghumarwin HP',
+    uniqueId: 'cdf94fd6-6b6a-4e4f-ae58-21c5ae82e549',
+    createList: 'Not Allow',
+    __v: 0
+  },
+  {
+    fname: 'Anshul',
+    lname: 'Sharma',
+    email: 'ans@gmail.com',
+    password: '$2a$12$cFhPm2IHotRMM0xxBcosr.F.Pn0dS99OV5dmSjm7X73n28AqEjJ9S',
+    designation: 'Intern',
+    phone: 9837295037,
+    address: 'Jhandutta Bilaspur',
+    uniqueId: '334b7ec6-6d7b-47b6-9fe9-7f356a67cb7c',
+    createList: 'Not Allow',
+    __v: 0
+  }
+]
