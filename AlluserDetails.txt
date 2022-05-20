@@ -1,5 +1,45 @@
 Password is same as the fname of user.
 
+Steps-:
+1) Add details to company database-:
+	a) Click on Add To Company's database button and it will show the register page to you.
+	b)Enter your details and click on submit.
+	c)Your details will be added in the database.
+2)Create List-:
+	a)Click on Create List button.
+	b)Enter your login details.
+	c)If you are admin, it will show the list name page, otherwise it will show error.
+	d)Type the list name and click enter.
+3)Add users to the list-:
+	a)Click on the search bar and it will show list of users.
+	b)Enter the name of  users.
+	c)Select the users you want to add annd the selected users will be shown on the top bar.
+	d)Click on the add button and all selected users will be added to the list
+4)Delete user from the list-:
+	a)Click on the delete icon at the right end of the user name
+	b)The user will be deleted.
+5)Edit the list-:
+	a)Click on the edit icon at the right of list name(icon between eye and delete).
+	b)Enter your login details.
+	c)if you are creator of the list, then it will show the list page where you can edit the list, otherwise it will show error.
+6)Delete the list-:
+	a)Click on the delete icon at the end of list name.
+	b)Enter your login details.
+	c)If you are creator of list, list will be deleted otherwise it will show error.
+7)See List details-:
+	a)Click on eye icon at the right of list name and it will show the list page.
+8) See user details-:
+	a)Click on eye icon at the right of list name and it will show the users page with all user details.
+9)Update user-:
+	a)Click on the edit button and enter your login details.
+	b)If you are admin and the user itself, then it will show update page otherwise it will show error.
+	c)Enter your updated details and click on update.
+	d)Your details will be updated.
+
+Problem-:
+The user have to login again and again to perform different tasks. But this problem can be resolved by putting login page at the start and add login and register functionality. And use sessions or cookies(jwttoken) to store the user login details ton every componet of react. I find this solution later and due to shortage of time I can't do that now, but I will update it soon.
+
+
 
 
 
