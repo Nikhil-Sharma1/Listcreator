@@ -5,7 +5,7 @@ Idea-:
 A company wants to assign a task of creating lists to his four employess(admins in the project) and one list is created by one user only. 
 
 Steps to run on the localhost:
-1)Create account on mongodb, then create a project.
+1) Create account on mongodb, then create a project.
 2) Inside that project, create the database and provide the require permissions 
 3) Then you get a link like this "mongodb+srv://<username>:<password>@cluster0.imqbd.mongodb.net/spottabl?retryWrites=true&w=majority"
 4) Open this code in your pc and create .env file in the backend folder
